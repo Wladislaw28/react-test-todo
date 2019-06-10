@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-test-todo/static/css/main.3e3dd75c.chunk.css",
+    "main.js": "/react-test-todo/static/js/main.4fdb76b8.chunk.js",
+    "main.js.map": "/react-test-todo/static/js/main.4fdb76b8.chunk.js.map",
+    "runtime~main.js": "/react-test-todo/static/js/runtime~main.fcc119f8.js",
+    "runtime~main.js.map": "/react-test-todo/static/js/runtime~main.fcc119f8.js.map",
+    "static/js/2.2345bff9.chunk.js": "/react-test-todo/static/js/2.2345bff9.chunk.js",
+    "static/js/2.2345bff9.chunk.js.map": "/react-test-todo/static/js/2.2345bff9.chunk.js.map",
+    "index.html": "/react-test-todo/index.html",
+    "precache-manifest.c2088753a403c985e78aa10852052c26.js": "/react-test-todo/precache-manifest.c2088753a403c985e78aa10852052c26.js",
+    "service-worker.js": "/react-test-todo/service-worker.js",
+    "static/css/main.3e3dd75c.chunk.css.map": "/react-test-todo/static/css/main.3e3dd75c.chunk.css.map"
+  }
+}
